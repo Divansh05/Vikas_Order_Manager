@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164950589062",
+    "project_id": "steel-order-manager",
+    "storage_bucket": "steel-order-manager.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164950589062:android:1f9084f54b94f28d415b07",
+        "android_client_info": {
+          "package_name": "com.mittal.order_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXXKJeNR5E3zMK-46YPd0SSifWCTgvJYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
